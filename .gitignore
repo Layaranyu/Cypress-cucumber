@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Cypress output
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Cypress cache
+.cypress-cache/
+.cypress/
+
+# Relatórios (se usar mochawesome, allure, etc.)
+mochawesome-report/
+allure-results/
+allure-report/
+coverage/
+
+# Ambiente/variáveis locais
+.env
+.env.local
+
+# Outros padrões gerais
+.DS_Store
+.idea/
+.vscode/
+dist/
+build/
